@@ -15,4 +15,4 @@ The router provides Internet access to all devices
 
 Result:
 All wired devices are connected and the network has Internet access.
-![Home Network Setup](screenshots/Screenshot1.png).
+![Home Network Setup](screenshots/Screenshot1.png)
