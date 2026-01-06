@@ -35,6 +35,7 @@ Write down the Default Gateway (this is the router’s IP).
 
 Open Web Browser, enter the router IP, and log in:
 Username: admin, Password: admin.
+
 ![Home Network Setup](screenshots/Screenshot3.png)
 
 Default passwords should be changed on real devices.
@@ -43,6 +44,7 @@ Default passwords should be changed on real devices.
 Go to Setup → Network Setup → Maximum Number of Users and set 10.
 
 ![Home Network Setup](screenshots/Screenshot4.png)
+
 Save settings.
 
 Go to Administration and change password to MyPassword1!.
@@ -63,6 +65,7 @@ Go to Wireless Security → WPA2 Personal.
 Set Passphrase: MyPassPhrase1!
 
 ![Home Network Setup](screenshots/Screenshot8.png)
+
 Save settings.
 Close the browser.
 
