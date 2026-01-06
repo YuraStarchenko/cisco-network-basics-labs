@@ -4,48 +4,15 @@
 This lab shows how to create a simple home network in Cisco Packet Tracer.
 The network uses wired and wireless connections with basic security.
 
-## Goals
-Connect network devices
-Configure a home router
-Use DHCP for IP addresses
-Secure Wi-Fi with a password
-Test Internet connection
+## Part 1: Device Connections
 
-## Tools
-Cisco Packet Tracer
-Home Wireless Router
-Cable Modem
-Two PCs (wired)
-One Laptop (Wi-Fi)
+This screenshot shows the home network setup in Cisco Packet Tracer.
+Coaxial cable connects Internet and TV services
+Cable Splitter separates Internet and TV signals
+Cable Modem is connected to the Home Wireless Router
+Two PCs are connected with Ethernet cables
+The router provides Internet access to all devices
 
-## What I Did
-Connected modem, router, PCs, and laptop
-Opened router settings in a web browser
-Enabled DHCP
-Changed the default admin password
-Set Wi-Fi name (SSID)
-Enabled WPA2 Wi-Fi security
-Connected all devices to the network
-
-## Result
-All devices received IP addresses
-Wired and wireless connections work
-Internet access is successful
-
-## Files
-Packet Tracer project file (`.pkt`)
-
-## Security
-Default router credentials were changed
-Wi-Fi network is protected with WPA2
-
-## Next Steps
-Add firewall rules
-Monitor network traffic
-Configure VLANs
-
-### Folder Structure
-Lab01-Home-Network/
-├── README.md
-├── home_network.pkt
-└── screenshots/
+Result:
+All wired devices are connected and the network has Internet access.
+![Home Network Setup](screenshots/Screenshot 2026-01-06 at 15.15.33.png)
