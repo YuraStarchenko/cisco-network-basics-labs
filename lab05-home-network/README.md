@@ -81,6 +81,6 @@ MAC address = Layer 2
 IP address = Layer 3
 Gateway is needed for remote networks
 
-# Status
+## Status
 Completed
 Simulation tested
