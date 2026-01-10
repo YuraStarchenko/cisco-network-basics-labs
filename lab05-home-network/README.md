@@ -1,6 +1,6 @@
-## Packet Tracer – MAC and IP Addresses
+# Packet Tracer – MAC and IP Addresses
 
-# Description
+##Description
 This lab shows how MAC and IP addresses work in a local network and a remote network.
 We use Simulation mode in Cisco Packet Tracer to watch PDU packets.
 
@@ -75,7 +75,7 @@ Traffic goes to the router
 MAC address changes
 IP address stays the same
 
-# Key Points
+## Key Points
 
 MAC address = Layer 2
 IP address = Layer 3
