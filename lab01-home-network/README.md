@@ -21,7 +21,7 @@ All wired devices are connected, and the network has Internet access.
 
 <p align="center">
   <a href="screenshots/Screenshot1.png">
-    <img src="screenshots/Screenshot1.png" width="700">
+    <img src="screenshots/Screenshot1.png" width="500">
   </a>
 </p>
 
@@ -40,7 +40,7 @@ On **Office PC** → `Desktop` → `IP Configuration`, click **DHCP**.
 
 <p align="center">
   <a href="screenshots/Screenshot2.png">
-    <img src="screenshots/Screenshot2.png" width="700">
+    <img src="screenshots/Screenshot2.png" width="500">
   </a>
 </p>
 
@@ -55,7 +55,7 @@ Open **Web Browser**, enter the router IP, and log in:
 
 <p align="center">
   <a href="screenshots/Screenshot3.png">
-    <img src="screenshots/Screenshot3.png" width="700">
+    <img src="screenshots/Screenshot3.png" width="500">
   </a>
 </p>
 
@@ -69,7 +69,7 @@ Go to `Setup` → `Network Setup` → **Maximum Number of Users**, and set it to
 
 <p align="center">
   <a href="screenshots/Screenshot4.png">
-    <img src="screenshots/Screenshot4.png" width="700">
+    <img src="screenshots/Screenshot4.png" width="500">
   </a>
 </p>
 
@@ -80,19 +80,19 @@ Log in again with the new password.
 
 <p align="center">
   <a href="screenshots/Screenshot5.png">
-    <img src="screenshots/Screenshot5.png" width="700">
+    <img src="screenshots/Screenshot5.png" width="500">
   </a>
 </p>
 
 <p align="center">
   <a href="screenshots/Screenshot7.png">
-    <img src="screenshots/Screenshot7.png" width="700">
+    <img src="screenshots/Screenshot7.png" width="500">
   </a>
 </p>
 
 <p align="center">
   <a href="screenshots/Screenshot12.png">
-    <img src="screenshots/Screenshot12.png" width="700">
+    <img src="screenshots/Screenshot12.png" width="500">
   </a>
 </p>
 
@@ -105,7 +105,7 @@ Change **SSID** to **MyHome**.
 
 <p align="center">
   <a href="screenshots/Screenshot6.png">
-    <img src="screenshots/Screenshot6.png" width="700">
+    <img src="screenshots/Screenshot6.png" width="500">
   </a>
 </p>
 
@@ -114,7 +114,7 @@ Set **Passphrase** to **MyPassPhrase1!**.
 
 <p align="center">
   <a href="screenshots/Screenshot8.png">
-    <img src="screenshots/Screenshot8.png" width="700">
+    <img src="screenshots/Screenshot8.png" width="500">
   </a>
 </p>
 
@@ -135,7 +135,7 @@ Find the **MyHome** network.
 
 <p align="center">
   <a href="screenshots/Screenshot9.png">
-    <img src="screenshots/Screenshot9.png" width="700">
+    <img src="screenshots/Screenshot9.png" width="500">
   </a>
 </p>
 
@@ -145,7 +145,7 @@ Check **Link Information** — you should see:
 
 <p align="center">
   <a href="screenshots/Screenshot10.png">
-    <img src="screenshots/Screenshot10.png" width="700">
+    <img src="screenshots/Screenshot10.png" width="500">
   </a>
 </p>
 
@@ -153,7 +153,7 @@ Open **Web Browser** and go to `skillsforall.srv` to test Internet access.
 
 <p align="center">
   <a href="screenshots/Screenshot11.png">
-    <img src="screenshots/Screenshot11.png" width="700">
+    <img src="screenshots/Screenshot11.png" width="500">
   </a>
 </p>
 
@@ -168,7 +168,7 @@ Go to `skillsforall.srv`.
 
 <p align="center">
   <a href="screenshots/Screenshot13.png">
-    <img src="screenshots/Screenshot13.png" width="700">
+    <img src="screenshots/Screenshot13.png" width="500">
   </a>
 </p>
 
@@ -183,13 +183,13 @@ Open **Web Browser** and go to `skillsforall.srv`.
 
 <p align="center">
   <a href="screenshots/Screenshot14.png">
-    <img src="screenshots/Screenshot14.png" width="700">
+    <img src="screenshots/Screenshot14.png" width="500">
   </a>
 </p>
 
 <p align="center">
   <a href="screenshots/Screenshot15.png">
-    <img src="screenshots/Screenshot15.png" width="700">
+    <img src="screenshots/Screenshot15.png" width="500">
   </a>
 </p>
 
