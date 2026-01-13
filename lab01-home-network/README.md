@@ -21,7 +21,7 @@ All wired devices are connected, and the network has Internet access.
 
 <p align="left">
   <a href="screenshots/Screenshot1.png">
-    <img src="screenshots/Screenshot1.png" width="500">
+    <img src="screenshots/Screenshot1.png" width="400">
   </a>
 </p>
 
@@ -40,7 +40,7 @@ On **Office PC** → `Desktop` → `IP Configuration`, click **DHCP**.
 
 <p align="left">
   <a href="screenshots/Screenshot2.png">
-    <img src="screenshots/Screenshot2.png" width="500">
+    <img src="screenshots/Screenshot2.png" width="400">
   </a>
 </p>
 
@@ -55,7 +55,7 @@ Open **Web Browser**, enter the router IP, and log in:
 
 <p align="left">
   <a href="screenshots/Screenshot3.png">
-    <img src="screenshots/Screenshot3.png" width="500">
+    <img src="screenshots/Screenshot3.png" width="400">
   </a>
 </p>
 
@@ -69,7 +69,7 @@ Go to `Setup` → `Network Setup` → **Maximum Number of Users**, and set it to
 
 <p align="left">
   <a href="screenshots/Screenshot4.png">
-    <img src="screenshots/Screenshot4.png" width="500">
+    <img src="screenshots/Screenshot4.png" width="400">
   </a>
 </p>
 
@@ -80,13 +80,13 @@ Log in again with the new password.
 
 <p align="left">
   <a href="screenshots/Screenshot5.png">
-    <img src="screenshots/Screenshot5.png" width="500">
+    <img src="screenshots/Screenshot5.png" width="300">
   </a>
     <a href="screenshots/Screenshot7.png">
-    <img src="screenshots/Screenshot7.png" width="500">
+    <img src="screenshots/Screenshot7.png" width="300">
   </a>
     <a href="screenshots/Screenshot12.png">
-    <img src="screenshots/Screenshot12.png" width="500">
+    <img src="screenshots/Screenshot12.png" width="300">
   </a>
 </p>
 
