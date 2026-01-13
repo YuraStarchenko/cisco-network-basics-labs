@@ -45,8 +45,8 @@ Devices are ready, but you must connect them to hosts, configure IPv4 addresses,
 
 
 <p align="left">
-  <img src="/lab07-home-network/screenshots/Screenshot1-3.png" width="600">
-  <img src="/lab07-home-network/screenshots/Screenshot1-4.png" width="400">
+  <img src="/lab07-home-network/screenshots/Screenshot1-3.png" width="700">
+  <img src="/lab07-home-network/screenshots/Screenshot1-4.png" width="300">
 </p>
 
 Note:
@@ -139,6 +139,7 @@ Run tracert <webserver URL> from a PC
 
 2. Where is the second router located?
 - In the Internet cloud.
+
 
 
 
