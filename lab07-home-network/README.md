@@ -3,7 +3,7 @@
 ## Address Table
 
 <p align="left">
-  <img src="/lab07-home-network/screenshots/Screenshot1-1.png" width="500">
+  <img src="/lab07-home-network/screenshots/Screenshot1-1.png" width="700">
 </p>
 
 
@@ -134,5 +134,6 @@ Run tracert <webserver URL> from a PC
 
 2. Where is the second router located?
 - In the Internet cloud.
+
 
 
