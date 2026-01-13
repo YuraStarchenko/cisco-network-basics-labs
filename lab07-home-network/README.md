@@ -33,7 +33,9 @@ Devices are ready, but you must connect them to hosts, configure IPv4 addresses,
 
 2. Connect hosts
 
-![Home Network Setup](/lab07-home-network/screenshots/Screenshot1-2.png)
+<p align="left">
+  <img src="/lab07-home-network/screenshots/Screenshot1-2.png" width="700">
+</p>
 
 - Use the Connections Table
 - Connect devices with copper straight-through Ethernet cables
@@ -134,6 +136,7 @@ Run tracert <webserver URL> from a PC
 
 2. Where is the second router located?
 - In the Internet cloud.
+
 
 
 
