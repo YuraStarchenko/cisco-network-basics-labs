@@ -80,13 +80,13 @@ Log in again with the new password.
 
 <p align="left">
   <a href="screenshots/Screenshot5.png">
-    <img src="screenshots/Screenshot5.png" width="300">
+    <img src="screenshots/Screenshot5.png" width="330">
   </a>
     <a href="screenshots/Screenshot7.png">
-    <img src="screenshots/Screenshot7.png" width="300">
+    <img src="screenshots/Screenshot7.png" width="330">
   </a>
     <a href="screenshots/Screenshot12.png">
-    <img src="screenshots/Screenshot12.png" width="300">
+    <img src="screenshots/Screenshot12.png" width="330">
   </a>
 </p>
 
@@ -99,7 +99,7 @@ Change **SSID** to **MyHome**.
 
 <p align="left">
   <a href="screenshots/Screenshot6.png">
-    <img src="screenshots/Screenshot6.png" width="500">
+    <img src="screenshots/Screenshot6.png" width="400">
   </a>
 </p>
 
@@ -108,7 +108,7 @@ Set **Passphrase** to **MyPassPhrase1!**.
 
 <p align="left">
   <a href="screenshots/Screenshot8.png">
-    <img src="screenshots/Screenshot8.png" width="500">
+    <img src="screenshots/Screenshot8.png" width="400">
   </a>
 </p>
 
@@ -129,7 +129,7 @@ Find the **MyHome** network.
 
 <p align="left">
   <a href="screenshots/Screenshot9.png">
-    <img src="screenshots/Screenshot9.png" width="500">
+    <img src="screenshots/Screenshot9.png" width="400">
   </a>
 </p>
 
@@ -139,7 +139,7 @@ Check **Link Information** — you should see:
 
 <p align="left">
   <a href="screenshots/Screenshot10.png">
-    <img src="screenshots/Screenshot10.png" width="500">
+    <img src="screenshots/Screenshot10.png" width="400">
   </a>
 </p>
 
@@ -147,7 +147,7 @@ Open **Web Browser** and go to `skillsforall.srv` to test Internet access.
 
 <p align="left">
   <a href="screenshots/Screenshot11.png">
-    <img src="screenshots/Screenshot11.png" width="500">
+    <img src="screenshots/Screenshot11.png" width="400">
   </a>
 </p>
 
@@ -162,7 +162,7 @@ Go to `skillsforall.srv`.
 
 <p align="left">
   <a href="screenshots/Screenshot13.png">
-    <img src="screenshots/Screenshot13.png" width="500">
+    <img src="screenshots/Screenshot13.png" width="400">
   </a>
 </p>
 
@@ -177,10 +177,10 @@ Open **Web Browser** and go to `skillsforall.srv`.
 
 <p align="left">
   <a href="screenshots/Screenshot14.png">
-    <img src="screenshots/Screenshot14.png" width="500">
+    <img src="screenshots/Screenshot14.png" width="400">
   </a>
     <a href="screenshots/Screenshot15.png">
-    <img src="screenshots/Screenshot15.png" width="500">
+    <img src="screenshots/Screenshot15.png" width="400">
   </a>
 </p>
 
