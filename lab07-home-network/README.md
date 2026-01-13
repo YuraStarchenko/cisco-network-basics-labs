@@ -45,7 +45,7 @@ Devices are ready, but you must connect them to hosts, configure IPv4 addresses,
 
 
 <p align="left">
-  <img src="/lab07-home-network/screenshots/Screenshot1-3.png" width="700">
+  <img src="/lab07-home-network/screenshots/Screenshot1-3.png" width="600">
   <img src="/lab07-home-network/screenshots/Screenshot1-4.png" width="400">
 </p>
 
@@ -71,7 +71,9 @@ Note:
 - Enter IP info from the Address Table
 - PCs in the same network have similar IPs, same subnet mask and default gateway.
 
-![Home Network Setup](/lab07-home-network/screenshots/Screenshot2-2.png)
+<p align="left">
+  <img src="/lab07-home-network/screenshots/Screenshot2-2.png" width="700">
+</p>
 
 ### Questions:
 
@@ -141,6 +143,7 @@ Run tracert <webserver URL> from a PC
 
 2. Where is the second router located?
 - In the Internet cloud.
+
 
 
 
