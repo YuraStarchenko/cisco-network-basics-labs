@@ -33,7 +33,7 @@ Testing the connection to the web server using ping.
 
 <p align="left">
   <a href="/lab02-home-network/screenshots/Screenshot1.png">
-    <img src="/lab02-home-network/screenshots/Screenshot1.png" width="700">
+    <img src="/lab02-home-network/screenshots/Screenshot1.png" width="500">
   </a>
 </p>
 Result
@@ -53,7 +53,7 @@ Testing the connection to the web server using Web Browser.
 
 <p align="left">
   <a href="/lab02-home-network/screenshots/Screenshot2.png">
-    <img src="/lab02-home-network/screenshots/Screenshot2.png" width="700">
+    <img src="/lab02-home-network/screenshots/Screenshot2.png" width="500">
   </a>
 </p>
 
