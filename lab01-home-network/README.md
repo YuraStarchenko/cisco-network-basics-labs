@@ -19,7 +19,7 @@ This screenshot shows the home network setup in Cisco Packet Tracer.
 **Result:**  
 All wired devices are connected, and the network has Internet access.
 
-<p align="center">
+<p align="left">
   <a href="screenshots/Screenshot1.png">
     <img src="screenshots/Screenshot1.png" width="500">
   </a>
@@ -38,7 +38,7 @@ In this part, you access the router from the Office PC and set up the home netwo
 
 On **Office PC** → `Desktop` → `IP Configuration`, click **DHCP**.
 
-<p align="center">
+<p align="left">
   <a href="screenshots/Screenshot2.png">
     <img src="screenshots/Screenshot2.png" width="500">
   </a>
@@ -53,7 +53,7 @@ Open **Web Browser**, enter the router IP, and log in:
 - **Username:** admin  
 - **Password:** admin  
 
-<p align="center">
+<p align="left">
   <a href="screenshots/Screenshot3.png">
     <img src="screenshots/Screenshot3.png" width="500">
   </a>
@@ -67,7 +67,7 @@ Open **Web Browser**, enter the router IP, and log in:
 
 Go to `Setup` → `Network Setup` → **Maximum Number of Users**, and set it to **10**.
 
-<p align="center">
+<p align="left">
   <a href="screenshots/Screenshot4.png">
     <img src="screenshots/Screenshot4.png" width="500">
   </a>
@@ -78,20 +78,14 @@ Save the settings.
 Go to **Administration** and change the password to **MyPassword1!**.  
 Log in again with the new password.
 
-<p align="center">
+<p align="left">
   <a href="screenshots/Screenshot5.png">
     <img src="screenshots/Screenshot5.png" width="500">
   </a>
-</p>
-
-<p align="center">
-  <a href="screenshots/Screenshot7.png">
+    <a href="screenshots/Screenshot7.png">
     <img src="screenshots/Screenshot7.png" width="500">
   </a>
-</p>
-
-<p align="center">
-  <a href="screenshots/Screenshot12.png">
+    <a href="screenshots/Screenshot12.png">
     <img src="screenshots/Screenshot12.png" width="500">
   </a>
 </p>
@@ -103,7 +97,7 @@ Log in again with the new password.
 Go to **Wireless** → enable **2.4 GHz**.  
 Change **SSID** to **MyHome**.
 
-<p align="center">
+<p align="left">
   <a href="screenshots/Screenshot6.png">
     <img src="screenshots/Screenshot6.png" width="500">
   </a>
@@ -112,7 +106,7 @@ Change **SSID** to **MyHome**.
 Go to **Wireless Security** → **WPA2 Personal**.  
 Set **Passphrase** to **MyPassPhrase1!**.
 
-<p align="center">
+<p align="left">
   <a href="screenshots/Screenshot8.png">
     <img src="screenshots/Screenshot8.png" width="500">
   </a>
@@ -133,7 +127,7 @@ Now the router is ready. In this part, IP addresses are assigned and Internet co
 On **Laptop** → `Desktop` → `PC Wireless` → `Connect`.  
 Find the **MyHome** network.
 
-<p align="center">
+<p align="left">
   <a href="screenshots/Screenshot9.png">
     <img src="screenshots/Screenshot9.png" width="500">
   </a>
@@ -143,7 +137,7 @@ Enter the **Pre-shared Key:** `MyPassPhrase1!`, then click **Connect**.
 Check **Link Information** — you should see:  
 > “You have successfully connected to the access point.”
 
-<p align="center">
+<p align="left">
   <a href="screenshots/Screenshot10.png">
     <img src="screenshots/Screenshot10.png" width="500">
   </a>
@@ -151,7 +145,7 @@ Check **Link Information** — you should see:
 
 Open **Web Browser** and go to `skillsforall.srv` to test Internet access.
 
-<p align="center">
+<p align="left">
   <a href="screenshots/Screenshot11.png">
     <img src="screenshots/Screenshot11.png" width="500">
   </a>
@@ -166,7 +160,7 @@ Open **Web Browser** and go to `skillsforall.srv` to test Internet access.
 On **Office PC** → `Desktop` → `Web Browser`.  
 Go to `skillsforall.srv`.
 
-<p align="center">
+<p align="left">
   <a href="screenshots/Screenshot13.png">
     <img src="screenshots/Screenshot13.png" width="500">
   </a>
@@ -181,14 +175,11 @@ This confirms that the Office PC is connected to the Internet.
 On **Bedroom PC** → `IP Configuration`, select **DHCP**.  
 Open **Web Browser** and go to `skillsforall.srv`.
 
-<p align="center">
+<p align="left">
   <a href="screenshots/Screenshot14.png">
     <img src="screenshots/Screenshot14.png" width="500">
   </a>
-</p>
-
-<p align="center">
-  <a href="screenshots/Screenshot15.png">
+    <a href="screenshots/Screenshot15.png">
     <img src="screenshots/Screenshot15.png" width="500">
   </a>
 </p>
