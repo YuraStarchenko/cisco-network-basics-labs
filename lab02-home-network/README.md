@@ -37,6 +37,13 @@ Testing the connection to the web server using ping.
   </a>
 </p>
 
+<p align="center">
+  <a href="screenshots/Screenshot11.png">
+    <img src="screenshots/Screenshot11.png" width="700">
+  </a>
+</p>
+
+
 Result
 
 The reply confirms that the client is successfully connected to the destination web server.
