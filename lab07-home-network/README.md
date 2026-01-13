@@ -72,7 +72,7 @@ Note:
 - PCs in the same network have similar IPs, same subnet mask and default gateway.
 
 <p align="left">
-  <img src="/lab07-home-network/screenshots/Screenshot2-2.png" width="700">
+  <img src="/lab07-home-network/screenshots/Screenshot2-2.png" width="500">
 </p>
 
 ### Questions:
@@ -97,14 +97,18 @@ Note:
 2. On Admin and Manager PCs, ping the printer.
 - Successful replies show devices are on, connected, and correctly addressed
 
-![Home Network Setup](/lab07-home-network/screenshots/Screenshot3-1.png)
+<p align="left">
+  <img src="/lab07-home-network/screenshots/Screenshot3-1.png" width="600">
+</p>
 
 ### Step 2: Test Internet Access
 
 - Open a browser on each PC
 = Access the Internet server by IP and by URL
 
-![Home Network Setup](/lab07-home-network/screenshots/Screenshot3-2.png)
+<p align="left">
+  <img src="/lab07-home-network/screenshots/Screenshot3-2.png" width="500">
+</p>
 
 ### Question:
 
@@ -118,7 +122,9 @@ This can happen if the network is down or the DNS address on the host is missing
 
 - Shows IP, subnet mask, gateway, and more on the PC
 
-![Home Network Setup](/lab07-home-network/screenshots/Screenshot4-1.png)
+<p align="left">
+  <img src="/lab07-home-network/screenshots/Screenshot4-1.png" width="600">
+</p>
 
 ### Question:
 
@@ -134,7 +140,9 @@ Shows the route from the PC to a destination using ICMP
 
 Run tracert <webserver URL> from a PC
 
-![Home Network Setup](/lab07-home-network/screenshots/Screenshot4-2.png)
+<p align="left">
+  <img src="/lab07-home-network/screenshots/Screenshot4-2.png" width="700">
+</p>
 
 ### Questions:
 
@@ -143,6 +151,7 @@ Run tracert <webserver URL> from a PC
 
 2. Where is the second router located?
 - In the Internet cloud.
+
 
 
 
