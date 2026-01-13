@@ -16,8 +16,8 @@ Testing connection to the web server using ping.
 ![Home Network Setup](/lab02-home-network/screenshots/Screenshot1.png)
 
 <p align="center">
-  <a href="lab02-home-network/screenshots/Screenshot1.png">
-    <img src="lab02-home-network/screenshots/Screenshot1.png" width="700">
+  <a href="/lab02-home-network/screenshots/Screenshot1.png">
+    <img src="/lab02-home-network/screenshots/Screenshot1.png" width="700">
   </a>
 </p>
 
