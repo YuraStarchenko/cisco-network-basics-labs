@@ -43,8 +43,13 @@ Devices are ready, but you must connect them to hosts, configure IPv4 addresses,
 - Connect PCs and printer to the office switch
 - After a short delay, green link lights should appear
 
-![Home Network Setup](/lab07-home-network/screenshots/Screenshot1-3.png)
-![Home Network Setup](/lab07-home-network/screenshots/Screenshot1-4.png)
+
+<p align="left">
+  <img src="/lab07-home-network/screenshots/Screenshot1-3.png" width="600">
+</p>
+<p align="right">
+  <img src="/lab07-home-network/screenshots/Screenshot1-4.png" width="600">
+</p>
 
 Note:
 - Interfaces with G = GigabitEthernet
@@ -136,6 +141,7 @@ Run tracert <webserver URL> from a PC
 
 2. Where is the second router located?
 - In the Internet cloud.
+
 
 
 
