@@ -46,7 +46,7 @@ Devices are ready, but you must connect them to hosts, configure IPv4 addresses,
 
 <p align="left">
   <img src="/lab07-home-network/screenshots/Screenshot1-3.png" width="700">
-  <img src="/lab07-home-network/screenshots/Screenshot1-4.png" width="300">
+  <img src="/lab07-home-network/screenshots/Screenshot1-4.png" width="400">
 </p>
 
 Note:
@@ -62,7 +62,9 @@ Note:
 - Open Desktop > IP Configuration
 - Set to dynamic IP
 
-![Home Network Setup](/lab07-home-network/screenshots/Screenshot2-1.png)
+<p align="left">
+  <img src="/lab07-home-network/screenshots/Screenshot2-1.png" width="700">
+</p>
 
 2. Printers and servers use static IP so other devices can always reach them.
 - Open Config > FastEthernet0 on the printer
@@ -139,6 +141,7 @@ Run tracert <webserver URL> from a PC
 
 2. Where is the second router located?
 - In the Internet cloud.
+
 
 
 
