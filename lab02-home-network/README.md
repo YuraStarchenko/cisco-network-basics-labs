@@ -31,7 +31,12 @@ ping 172.33.100.50
 ```
 Testing the connection to the web server using ping.
 
-<p align="center"> <a href="lab02-home-network/screenshots/Screenshot1.png"> <img src="lab02-home-network/screenshots/Screenshot1.png" width="700"> </a> </p>
+<p align="center">
+  <a href="lab02-home-network/screenshots/Screenshot1.png">
+    <img src="lab02-home-network/screenshots/Screenshot1.png" width="700">
+  </a>
+</p>
+
 Result
 
 The reply confirms that the client is successfully connected to the destination web server.
@@ -50,7 +55,12 @@ The web page opens successfully using the server IP address.
 
 Testing the connection to the web server using Web Browser.
 
-<p align="center"> <a href="lab02-home-network/screenshots/Screenshot2.png"> <img src="lab02-home-network/screenshots/Screenshot2.png" width="700"> </a> </p>
+<p align="center">
+  <a href="lab02-home-network/screenshots/Screenshot2.png">
+    <img src="lab02-home-network/screenshots/Screenshot2.png" width="700">
+  </a>
+</p>
+
 ✅ Lab Complete
 
 The client can successfully reach the web server using both:
