@@ -2,7 +2,10 @@
 
 ## Address Table
 
-![Home Network Setup](/lab07-home-network/screenshots/Screenshot1-1.png)
+<p align="center">
+  <img src="/lab07-home-network/screenshots/Screenshot1-1.png" width="400">
+</p>
+
 
 ### Objectives
 
@@ -131,3 +134,4 @@ Run tracert <webserver URL> from a PC
 
 2. Where is the second router located?
 - In the Internet cloud.
+
