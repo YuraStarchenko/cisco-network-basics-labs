@@ -1,2 +1,2 @@
 echo ".DS_Store" >> .gitignore
-git add .gitignore
+git add .gitignore.DS_Store
