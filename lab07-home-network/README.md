@@ -151,14 +151,3 @@ Run tracert <webserver URL> from a PC
 
 2. Where is the second router located?
 - In the Internet cloud.
-
-
-
-
-
-
-
-
-
-
-
