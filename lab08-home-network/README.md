@@ -65,11 +65,11 @@ delivered.
 * Review other PDUs to understand the full communication process
 
 <p align="left">
-  <img src="/lab08-home-network/screenshots/Screenshot6-1.png" width="300">
-  <img src="/lab08-home-network/screenshots/Screenshot6-2.png" width="300">
-  <img src="/lab08-home-network/screenshots/Screenshot6-3.png" width="300">
-  <img src="/lab08-home-network/screenshots/Screenshot6-4.png" width="300">
-  <img src="/lab08-home-network/screenshots/Screenshot6-5.png" width="300">
-  <img src="/lab08-home-network/screenshots/Screenshot6-6.png" width="300">
-  <img src="/lab08-home-network/screenshots/Screenshot6-7.png" width="300">
+  <img src="/lab08-home-network/screenshots/Screenshot6-1.png" width="250">
+  <img src="/lab08-home-network/screenshots/Screenshot6-2.png" width="250">
+  <img src="/lab08-home-network/screenshots/Screenshot6-3.png" width="250">
+  <img src="/lab08-home-network/screenshots/Screenshot6-4.png" width="250">
+  <img src="/lab08-home-network/screenshots/Screenshot6-5.png" width="250">
+  <img src="/lab08-home-network/screenshots/Screenshot6-6.png" width="250">
+  <img src="/lab08-home-network/screenshots/Screenshot6-7.png" width="250">
 </p>
