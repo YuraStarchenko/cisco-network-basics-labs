@@ -49,7 +49,7 @@ FTP uses **port 21** for commands and **port 20** for data transfer.
 
 <p align="left">
   <img src="/lab10-home-network/screenshots/Screenshot1-2.png" width="300">
-  <img src="/lab10-home-network/screenshots/Screenshot1-3.png" width="300">
+  <img src="/lab10-home-network/screenshots/Screenshot1-3.png" width="250">
   <img src="/lab10-home-network/screenshots/Screenshot1-4.png" width="300">
   <img src="/lab10-home-network/screenshots/Screenshot1-5.png" width="300">
 </p>
