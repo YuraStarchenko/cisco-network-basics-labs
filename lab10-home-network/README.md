@@ -1,13 +1,13 @@
 ## Packet Tracer – Using FTP Services
 
 <p align="left">
-  <img src="/lab10-home-network/screenshots/Screenshot1.png" width="600">
+  <img src="/lab10-home-network/screenshots/Screenshot1.png" width="500">
 </p>
 
 ### Addressing Table
 
 <p align="left">
-  <img src="/lab10-home-network/screenshots/Screenshot1-1.png" width="500">
+  <img src="/lab10-home-network/screenshots/Screenshot1-1.png" width="700">
 </p>
 
 ### Objectives
