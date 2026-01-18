@@ -60,6 +60,7 @@ Did you get a reply? What IP address is shown?
 
 **Question:**
 Did the ping reply? What IP address is returned?
+
 - 192.15.2.10
 
 ### Part 4: Ping Server IP from Problem PCs

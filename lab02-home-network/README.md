@@ -36,14 +36,18 @@ Testing the connection to the web server using ping.
     <img src="/lab02-home-network/screenshots/Screenshot1.png" width="500">
   </a>
 </p>
-Result
+
+### Result
+
 The reply confirms that the client is successfully connected to the destination web server.
 The first reply may take longer because devices are initializing and ARP is resolving MAC addresses.
 
-Part 2: Connect to the Web Server Using a Web Client
+### Part 2: Connect to the Web Server Using a Web Client
+
 In this part, you access the web server using a web browser.
 
-Step 2: Use Web Browser
+### Step 2: Use Web Browser
+
 a. On PC0 → Desktop, open Web Browser.
 b. Enter 172.33.100.50 in the URL bar and click Go.
 
