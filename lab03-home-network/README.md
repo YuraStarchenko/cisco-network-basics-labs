@@ -68,4 +68,10 @@ A home user wants to connect 3 PCs to a wireless router. All PCs get IP addresse
 4. Type ping 192.168.5.127 (PC1).
 5. All pings should work.
 
-![Home Network Setup](/lab03-home-network/screenshots/Screenshot10.png)
+<p align="left">
+  <img src="/lab03-home-network/screenshots/Screenshot10.png" width="700">
+</p>
+
+<p align="left">
+  <img src="" width="700">
+</p>
