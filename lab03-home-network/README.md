@@ -15,7 +15,9 @@ A home user wants to connect 3 PCs to a wireless router. All PCs get IP addresse
 1. Add 3 PCs.
 2. Connect each PC to the router with a cable.
 
-![Home Network Setup](/lab03-home-network/screenshots/Screenshot1.png)
+<p align="left">
+  <img src="/lab03-home-network/screenshots/Screenshot1.png" width="700">
+</p>
 
 ## Part 2: Use default DHCP
 
@@ -24,9 +26,11 @@ A home user wants to connect 3 PCs to a wireless router. All PCs get IP addresse
 3. Enter the router IP in the browser. Username: admin, password: admin.
 4. Look at default settings. DHCP is ON.
 
-![Home Network Setup](/lab03-home-network/screenshots/Screenshot2.png)
-![Home Network Setup](/lab03-home-network/screenshots/Screenshot3.png)
-![Home Network Setup](/lab03-home-network/screenshots/Screenshot3-1.png)
+<p align="left">
+  <img src="/lab03-home-network/screenshots/Screenshot2.png" width="700">
+  <img src="/lab03-home-network/screenshots/Screenshot3.png" width="700">
+  <img src="/lab03-home-network/screenshots/Screenshot3-1.png" width="700">
+</p>
 
 
 ## Part 3: Change router IP
@@ -37,8 +41,10 @@ A home user wants to connect 3 PCs to a wireless router. All PCs get IP addresse
 4. On PC0, go to IP Configuration → Static → DHCP to get new IP.
 5. Open browser again, enter 192.168.5.1, username: admin, password: admin.
 
-![Home Network Setup](/lab03-home-network/screenshots/Screenshot4.png)
 
+<p align="left">
+  <img src="/lab03-home-network/screenshots/Screenshot4.png" width="700">
+</p>
 
 ## Part 4: Change DHCP range
 
@@ -48,17 +54,21 @@ A home user wants to connect 3 PCs to a wireless router. All PCs get IP addresse
 4. On PC0, go to IP Configuration → Static → DHCP to get new IP.
 5. Open Command Prompt → type ipconfig to see IP.
 
-![Home Network Setup](/lab03-home-network/screenshots/Screenshot5.png)
-![Home Network Setup](/lab03-home-network/screenshots/Screenshot6.png)
-![Home Network Setup](/lab03-home-network/screenshots/Screenshot7.png)
+<p align="left">
+  <img src="/lab03-home-network/screenshots/Screenshot5.png" width="700">
+  <img src="/lab03-home-network/screenshots/Screenshot6.png" width="700">
+  <img src="/lab03-home-network/screenshots/Screenshot7.png" width="700">
+</p>
 
 ## Part 5: Enable DHCP on PC1 and PC2
 
 1. Click PC1 → Desktop → IP Configuration → DHCP.
 2. Repeat for PC2.
 
-![Home Network Setup](/lab03-home-network/screenshots/Screenshot8.png)
-![Home Network Setup](/lab03-home-network/screenshots/Screenshot9.png)
+<p align="left">
+  <img src="/lab03-home-network/screenshots/Screenshot8.png" width="700">
+  <img src="/lab03-home-network/screenshots/Screenshot9.png" width="700">
+</p>
 
 ## Part 6: Test the network
 
@@ -70,8 +80,4 @@ A home user wants to connect 3 PCs to a wireless router. All PCs get IP addresse
 
 <p align="left">
   <img src="/lab03-home-network/screenshots/Screenshot10.png" width="700">
-</p>
-
-<p align="left">
-  <img src="" width="700">
 </p>
