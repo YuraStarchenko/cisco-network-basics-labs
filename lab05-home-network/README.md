@@ -1,6 +1,7 @@
 # Packet Tracer – MAC and IP Addresses
 
-##Description
+## Description
+
 This lab shows how MAC and IP addresses work in a local network and a remote network.
 We use Simulation mode in Cisco Packet Tracer to watch PDU packets.
 
@@ -46,7 +47,6 @@ Result
 PCs talk directly
 No gateway is needed
 
-
 ## Part 2: Remote Network
 
 Steps
@@ -82,5 +82,6 @@ IP address = Layer 3
 Gateway is needed for remote networks
 
 ## Status
+
 Completed
 Simulation tested
