@@ -1,6 +1,7 @@
 # Lab 01 — Home Network Setup (Packet Tracer)
 
 ## Description
+
 This lab shows how to create a simple home network in Cisco Packet Tracer.  
 The network uses wired and wireless connections with basic security.
 
@@ -10,11 +11,11 @@ The network uses wired and wireless connections with basic security.
 
 This screenshot shows the home network setup in Cisco Packet Tracer.
 
-- Coaxial cable connects Internet and TV services  
-- Cable Splitter separates Internet and TV signals  
-- Cable Modem is connected to the Home Wireless Router  
-- Two PCs are connected with Ethernet cables  
-- The router provides Internet access to all devices  
+- Coaxial cable connects Internet and TV services
+- Cable Splitter separates Internet and TV signals
+- Cable Modem is connected to the Home Wireless Router
+- Two PCs are connected with Ethernet cables
+- The router provides Internet access to all devices
 
 **Result:**  
 All wired devices are connected, and the network has Internet access.
@@ -29,8 +30,10 @@ All wired devices are connected, and the network has Internet access.
 
 ## Part 2: Setup Home Wireless Router
 
-Most home wireless routers use a GUI (Graphical User Interface) in a web browser.  
-In this part, you access the router from the Office PC and set up the home network.
+Most home wireless routers use a GUI (Graphical User Interface) in a web
+browser.  
+In this part, you access the router from the Office PC and set up the home
+network.
 
 ---
 
@@ -50,8 +53,8 @@ Write down the **Default Gateway** (this is the router’s IP).
 
 Open **Web Browser**, enter the router IP, and log in:
 
-- **Username:** admin  
-- **Password:** admin  
+- **Username:** admin
+- **Password:** admin
 
 <p align="left">
   <a href="screenshots/Screenshot3.png">
@@ -65,7 +68,8 @@ Open **Web Browser**, enter the router IP, and log in:
 
 ### Step 2: Set Basic Settings
 
-Go to `Setup` → `Network Setup` → **Maximum Number of Users**, and set it to **10**.
+Go to `Setup` → `Network Setup` → **Maximum Number of Users**, and set it to
+**10**.
 
 <p align="left">
   <a href="screenshots/Screenshot4.png">
@@ -118,7 +122,8 @@ Save the settings and close the browser.
 
 ## Part 3: Set IP and Test Connection
 
-Now the router is ready. In this part, IP addresses are assigned and Internet connectivity is tested.
+Now the router is ready. In this part, IP addresses are assigned and Internet
+connectivity is tested.
 
 ---
 
@@ -134,7 +139,8 @@ Find the **MyHome** network.
 </p>
 
 Enter the **Pre-shared Key:** `MyPassPhrase1!`, then click **Connect**.  
-Check **Link Information** — you should see:  
+Check **Link Information** — you should see:
+
 > “You have successfully connected to the access point.”
 
 <p align="left">
@@ -189,6 +195,6 @@ Open **Web Browser** and go to `skillsforall.srv`.
 ## ✅ Lab Complete
 
 All devices now have Internet access.  
-**Lab complete!** 🎉  
+**Lab complete!** 🎉
 
 Your friend **Natsumi** thanks you with lunch 🍱🙂
