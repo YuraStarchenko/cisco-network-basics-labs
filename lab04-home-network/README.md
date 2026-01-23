@@ -53,7 +53,7 @@
 6. Click Create PDU → Play animation
 
 <p align="left">
-   <img src="/lab04-home-network/screenshots/Screensho4-1.png" width="700">
+   <img src="/lab04-home-network/screenshots/Screenshot4-1.png" width="700">
    <img src="/lab04-home-network/screenshots/Screenshot4-2.png" width="700">
 </p>
 
@@ -66,7 +66,7 @@
 5. Click Check Results when done
 
 <p align="left">
-   <img src="/lab04-home-network/screenshots/Screensho5-1.png" width="700">
+   <img src="/lab04-home-network/screenshots/Screenshot5-1.png" width="700">
    <img src="/lab04-home-network/screenshots/Screenshot5-2.png" width="700">
 </p>
 

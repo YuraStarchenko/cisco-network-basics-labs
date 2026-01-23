@@ -196,5 +196,3 @@ Open **Web Browser** and go to `skillsforall.srv`.
 
 All devices now have Internet access.  
 **Lab complete!** 🎉
-
-Your friend **Natsumi** thanks you with lunch 🍱🙂

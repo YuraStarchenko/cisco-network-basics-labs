@@ -1,14 +1,15 @@
-## Packet Tracer – DHCP on a Wireless Router
+# Packet Tracer – DHCP on a Wireless Router
 
 ## Goals
 
-* Connect 3 PCs to a wireless router
-* Change DHCP settings
-* Let PCs get IP addresses automatically
+- Connect 3 PCs to a wireless router
+- Change DHCP settings
+- Let PCs get IP addresses automatically
 
 ## Scenario
 
-A home user wants to connect 3 PCs to a wireless router. All PCs get IP addresses from the router automatically.
+A home user wants to connect 3 PCs to a wireless router. All PCs get IP
+addresses from the router automatically.
 
 ## Part 1: Connect the network
 
@@ -32,7 +33,6 @@ A home user wants to connect 3 PCs to a wireless router. All PCs get IP addresse
   <img src="/lab03-home-network/screenshots/Screenshot3-1.png" width="700">
 </p>
 
-
 ## Part 3: Change router IP
 
 1. Change router IP to 192.168.5.1.
@@ -40,7 +40,6 @@ A home user wants to connect 3 PCs to a wireless router. All PCs get IP addresse
 3. Close the browser.
 4. On PC0, go to IP Configuration → Static → DHCP to get new IP.
 5. Open browser again, enter 192.168.5.1, username: admin, password: admin.
-
 
 <p align="left">
   <img src="/lab03-home-network/screenshots/Screenshot4.png" width="700">

@@ -41,13 +41,10 @@ Destination IP: 172.16.31.2
 
 Result
 
-<!-- <p align="left">
-   <img src="/lab05-home-network/screenshots/Screenshot1-2.png" width="700">
+<p align="left">
+  <img src="/lab05-home-network/screenshots/Screenshot1-2.png" width="700">
   <img src="/lab05-home-network/screenshots/Screenshot1-1.png" width="700">
-</p> -->
-
-![Home Network Setup](/lab05-home-network/screenshots/Screenshot1-2.png){:width="700px" align="left"}
-![Home Network Setup](/lab05-home-network/screenshots/Screenshot1-1.png){:width="700px" align="left"}
+</p>
 
 PCs talk directly No gateway is needed
 
@@ -73,7 +70,9 @@ Destination IP: 10.10.10.2
 
 Result
 
-![Home Network Setup](/lab05-home-network/screenshots/Screenshot2-1.png)
+<p align="left">
+  <img src="/lab05-home-network/screenshots/Screenshot2-1.png" width="700">
+</p>
 
 Traffic goes to the router MAC address changes IP address stays the same
 
