@@ -41,10 +41,13 @@ Destination IP: 172.16.31.2
 
 Result
 
-<p align="left">
+<!-- <p align="left">
    <img src="/lab05-home-network/screenshots/Screenshot1-2.png" width="700">
   <img src="/lab05-home-network/screenshots/Screenshot1-1.png" width="700">
-</p>
+</p> -->
+
+![Home Network Setup](/lab05-home-network/screenshots/Screenshot1-2.png){:width="700px" align="left"}
+![Home Network Setup](/lab05-home-network/screenshots/Screenshot1-1.png){:width="700px" align="left"}
 
 PCs talk directly No gateway is needed
 
