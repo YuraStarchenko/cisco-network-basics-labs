@@ -26,7 +26,9 @@ Use Simulation Mode in Packet Tracer to observe traffic behavior.
 - Run arp -a
 - If entries exist, delete them with arp -d
 
-![Home Network Setup](/lab06-home-network/screenshots/Screenshot1-1.png)
+<p align="left">
+  <img src="/lab06-home-network/screenshots/Screenshot1-1.png" width="700">
+</p>
 
 ### Step 2: Explore Network Traffic
 
@@ -35,10 +37,12 @@ Use Simulation Mode in Packet Tracer to observe traffic behavior.
 - Use Capture then Forward to follow the PDU
 - Open the PDU to view frame and packet details
 
-![Home Network Setup](/lab06-home-network/screenshots/Screenshot1-2.png)
-![Home Network Setup](/lab06-home-network/screenshots/Screenshot1-3.png)
+<p align="left">
+  <img src="/lab06-home-network/screenshots/Screenshot1-2.png" width="700">
+  <img src="/lab06-home-network/screenshots/Screenshot1-3.png" width="700">
+</p>
 
-Questions:
+### Questions
 
 - What are the source and destination MAC and IP addresses?
 - Source MAC: Sales 1
@@ -75,14 +79,18 @@ two new subnets.
 Connect Accounting, Finance, and Sales switches to the Edge router using
 GigabitEthernet ports.
 
-![Home Network Setup](/lab06-home-network/screenshots/Screenshot2-1.png)
+<p align="left">
+  <img src="/lab06-home-network/screenshots/Screenshot2-1.png" width="700">
+</p>
 
 ### Step 2: Configure Nodes with New IPs
 
 Each Edge router interface has its own IPv4 subnet. Nodes in Finance and Sales
 need new IPs. On each device in Finance and Sales, run: ipconfig /renew
 
-![Home Network Setup](/lab06-home-network/screenshots/Screenshot2-2.png)
+<p align="left">
+  <img src="/lab06-home-network/screenshots/Screenshot2-2.png" width="700">
+</p>
 
 to get a new IP from the router’s DHCP.
 
@@ -105,7 +113,9 @@ Switch to Simulation Mode.
 Ping Sales 1. Use Capture then Forward to follow PDUs. Note how ARP messages
 travel through the routed network.
 
-![Home Network Setup](/lab06-home-network/screenshots/Screenshot3-1.png)
+<p align="left">
+  <img src="/lab06-home-network/screenshots/Screenshot3-1.png" width="700">
+</p>
 
 Question:
 
@@ -116,10 +126,12 @@ Question:
 
 Ping other nodes and the Internet server. Observe the ARP PDU flow.
 
-![Home Network Setup](/lab06-home-network/screenshots/Screenshot3-2.png)
-![Home Network Setup](/lab06-home-network/screenshots/Screenshot3-3.png)
+<p align="left">
+  <img src="/lab06-home-network/screenshots/Screenshot3-2.png" width="700">
+  <img src="/lab06-home-network/screenshots/Screenshot3-3.png" width="700">
+</p>
 
-Question:
+### Question
 
 - What is the benefit of using multiple networks or subnets in a company?
 

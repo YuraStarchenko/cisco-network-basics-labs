@@ -1,6 +1,0 @@
-{
-  "MD033": {
-    "allowed_elements": ["img", "div", "p", "br", "span"]
-  },
-  "MD045": false
-}
