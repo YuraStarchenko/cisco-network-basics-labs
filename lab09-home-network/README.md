@@ -1,8 +1,9 @@
-## Packet Tracer – Tracing Web Requests
+# Packet Tracer – Tracing Web Requests
 
-### Objective
+## Objective
 
-View client and server traffic sent from a PC to a web server when accessing web services.
+View client and server traffic sent from a PC to a web server when accessing web
+services.
 
 ---
 
@@ -11,16 +12,15 @@ View client and server traffic sent from a PC to a web server when accessing web
 1. Open **External Client** → **Desktop** → **Command Prompt**.
 2. Use the ping command:
 
-```
-ping ciscolearn.web.com
-```
+`ping ciscolearn.web.com`
 
 <p align="left">
   <img src="/lab09-home-network/screenshots/Screenshot1-1.png" width="300">
 </p>
 
-3. Note the IP address returned by DNS. Network traffic uses source and destination IP addresses.
-4. Close Command Prompt, keep External Client open.
+1. Note the IP address returned by DNS. Network traffic uses source and
+   destination IP addresses.
+2. Close Command Prompt, keep External Client open.
 
 ---
 
@@ -29,16 +29,14 @@ ping ciscolearn.web.com
 1. Open **Web Browser** on External Client.
 2. Enter:
 
-```
-ciscolearn.web.com
-```
+`ciscolearn.web.com`
 
 <p align="left">
   <img src="/lab09-home-network/screenshots/Screenshot2-1.png" width="400">
 </p>
 
-3. Read the web page and keep it open.
-4. Minimize External Client.
+1. Read the web page and keep it open.
+2. Minimize External Client.
 
 ---
 
@@ -62,12 +60,12 @@ ciscolearn.web.com
 1. Switch to **Simulation mode**.
 2. Open **Simulation Panel** and enable only **TCP** and **HTTP** filters.
 3. Create a **Complex PDU**:
+   - Source: External Client
+   - Application: HTTP
+   - Destination: ciscolearn.web.com
+   - Source Port: 1000
+   - Interval: 120 seconds
 
-   * Source: External Client
-   * Application: HTTP
-   * Destination: ciscolearn.web.com
-   * Source Port: 1000
-   * Interval: 120 seconds
 4. Click **Play** to observe traffic flow.
 
 <p align="left">
@@ -76,4 +74,5 @@ ciscolearn.web.com
   <img src="/lab09-home-network/screenshots/Screenshot4-3.png" width="500">
 </p>
 
-**Note:** HTTP uses TCP, so connection setup and acknowledgements increase traffic volume.
+**Note:** HTTP uses TCP, so connection setup and acknowledgements increase
+traffic volume.
